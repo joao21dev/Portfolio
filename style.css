@@ -132,43 +132,7 @@ nav {
   margin-block: 60px;
 }
 
-.skills {
-  position: relative;
-  /* width: 379px; */
-  margin-inline: 65vh;
-  margin-block: 60px;
-}
 
-.skills li {
-  margin-top: 25px;
-}
-
-.bar {
-  background: rgba(0, 0, 0, 0.3);
-  display: block;
-  height: 2px;
-  margin: 15px 0;
-  border: 1px solid rgba(0, 0, 0, 0.3);
-  border-radius: 3px;
-  overflow: hidden;
-}
-
-.bar span {
-  height: 2px;
-  float: left;
-}
-
-.html {
-  width: 90%;
-}
-
-.css {
-  width: 80%;
-}
-
-.javascript {
-  width: 50%;
-}
 
 #projects {
   margin-inline: 65vh;
@@ -242,10 +206,7 @@ nav {
     margin: 50px;
   }
 
-  .skills {
-    margin: 50px;
-    z-index: -1;
-  }
+
 
   #projects {
     margin-inline: 50px;
@@ -268,10 +229,7 @@ nav {
     margin-inline: 40vh;
   }
 
-  .skills {
-    margin-inline: 40vh;
-    z-index: -1;
-  }
+
 
   #projects {
     margin-inline: 40vh;
